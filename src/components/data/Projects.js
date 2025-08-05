@@ -24,14 +24,6 @@ export const projects = [
     imageDir: "https://res.cloudinary.com/dmheazsun/image/upload/v1751570864/cld-sample-2.jpg",
   },
   {
-    title: "LLM for Indian Knowledge System",
-    description:
-      "Fine-tuned an LLM for querying Indian Knowledge System (IKS) data. Deployed it with a web UI allowing semantic Q&A over traditional texts, promoting cultural and educational access.",
-    stars: "2025-2026",
-    tags: ["Python", "Transformers", "LangChain", "Next.js"],
-    imageDir: "https://res.cloudinary.com/dmheazsun/image/upload/v1751570864/cld-sample-2.jpg",
-  },
-  {
     title: "Personal Portfolio",
     description:
       "Designed and developed a dynamic personal portfolio inspired by Brittany Chiang’s layout, showcasing projects, timeline, and achievements. Features smooth scrolling and responsive UI.",

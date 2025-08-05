@@ -1,12 +1,5 @@
 const majorProjects = [
   {
-    project_name: "LLM for Indian Knowledge System",
-    year: "2025",
-    made_at: "IIT Tirupati",
-    built_with: ["LLM", "LangChain", "React", "Node.js", "MongoDB"],
-    link: "https://github.com/samuelmajji"
-  },
-  {
     project_name: "Welding Defect Detection (Audio + Voltage)",
     year: "2025",
     made_at: "IIT Tirupati (ML Internship)",
@@ -56,13 +49,6 @@ const majorProjects = [
     link: "https://github.com/samuelmajji"
   },
   {
-    project_name: "CMI Behavior Classification",
-    year: "2023",
-    made_at: "Kaggle",
-    built_with: ["Python", "scikit-learn", "SVM", "EDA", "Seaborn"],
-    link: "https://github.com/samuelmajji"
-  },
-  {
     project_name: "Student Affairs Council Website",
     year: "2024",
     made_at: "IIT Tirupati",
@@ -74,20 +60,6 @@ const majorProjects = [
     year: "2025",
     made_at: "IIT Tirupati",
     built_with: ["Three.js", "React", "react-three-fiber", "Blender"],
-    link: "https://github.com/samuelmajji"
-  },
-  {
-    project_name: "Chrome Dinosaur Game Bot",
-    year: "2022",
-    made_at: "Personal",
-    built_with: ["Python", "PyAutoGUI", "Image Recognition", "Time"],
-    link: "https://github.com/samuelmajji"
-  },
-  {
-    project_name: "PDF to Audiobook Converter",
-    year: "2024",
-    made_at: "Personal",
-    built_with: ["Python", "PyPDF2", "gTTS", "Speech APIs"],
     link: "https://github.com/samuelmajji"
   }
 ];
